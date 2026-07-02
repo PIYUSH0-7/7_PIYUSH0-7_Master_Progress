@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Analyze long-term mock feedback trends to identify and eliminate recurring communication weaknesses.
+Mock interview logs, when reviewed systematically, offer a precise roadmap for master progress, revealing recurring patterns in your performance and guiding targeted improvements for future assessments.
 
-*Daily Insight:* Ensure clear, self-documenting code style with meaningful variable naming.
+*Daily Insight:* After each mock interview, categorize the feedback into technical, behavioral, and communication areas, then create actionable steps for improvement in each.
 
 <!-- THOUGHT_END -->
 

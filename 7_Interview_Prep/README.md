@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Practice coding challenges under timed conditions to build performance confidence.
+Sustained interview preparation is an ongoing commitment to maintaining technical sharpness, ensuring you can articulate your mastery and problem-solving process confidently across a breadth of engineering domains.
 
-*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
+*Daily Insight:* Regularly solve a mix of easy, medium, and hard problems to keep your fundamental problem-solving skills sharp and adaptable.
 
 <!-- THOUGHT_END -->
 

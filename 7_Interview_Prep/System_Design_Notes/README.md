@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Review system design notes to keep scaling concepts (sharding, replication, caching, messaging) fresh.
+Comprehensive system design notes are a cornerstone of master progress, acting as a continuously evolving knowledge base that solidifies your understanding of scalable architectures and trade-off analyses.
 
-*Daily Insight:* Test thoroughly for edge cases, null values, and boundary conditions.
+*Daily Insight:* Dedicate regular time to sketching system designs for common applications (e.g., URL shortener, chat app) from memory, then compare with expert solutions.
 
 <!-- THOUGHT_END -->
 
