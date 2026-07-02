@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Update project descriptions regularly to reflect new features and optimizations.
+Ensure your portfolio showcases your versatility, problem-solving skills, and clean coding standards.
 
-*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
+*Daily Insight:* Test thoroughly for edge cases, null values, and boundary conditions.
 
 <!-- THOUGHT_END -->
 

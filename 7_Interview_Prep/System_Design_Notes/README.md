@@ -4,7 +4,7 @@
 
 Review system design notes to keep scaling concepts (sharding, replication, caching, messaging) fresh.
 
-*Daily Insight:* Optimize memory usage, garbage collection overhead, and resource disposal.
+*Daily Insight:* Test thoroughly for edge cases, null values, and boundary conditions.
 
 <!-- THOUGHT_END -->
 

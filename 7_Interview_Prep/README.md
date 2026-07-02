@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Keep your general interview readiness high by reviewing fundamental concepts and practice questions regularly.
+Practice coding challenges under timed conditions to build performance confidence.
 
-*Daily Insight:* Plan your weekly milestones, track progress velocity, and address blockers.
+*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
 
 <!-- THOUGHT_END -->
 

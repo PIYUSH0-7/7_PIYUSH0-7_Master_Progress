@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Engaging with open source projects broadens your technical horizons and exposes you to different workflows.
+Contributions show a collaborative spirit and demonstrate that you can work in large, existing codebases.
 
-*Daily Insight:* Optimize memory usage, garbage collection overhead, and resource disposal.
+*Daily Insight:* Test thoroughly for edge cases, null values, and boundary conditions.
 
 <!-- THOUGHT_END -->
 
