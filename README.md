@@ -4,7 +4,7 @@
 
 Mastering software engineering is a marathon; tracking your goals and progress ensures you stay on the right path.
 
-*Daily Insight:* Ensure clear, self-documenting code style with meaningful variable naming.
+*Daily Insight:* Optimize memory usage, garbage collection overhead, and resource disposal.
 
 <!-- THOUGHT_END -->
 
