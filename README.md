@@ -4,7 +4,7 @@
 
 Mastering software engineering is a marathon; tracking your goals and progress ensures you stay on the right path.
 
-*Daily Insight:* Plan your weekly milestones, track progress velocity, and address blockers.
+*Daily Insight:* Test thoroughly for edge cases, null values, and boundary conditions.
 
 <!-- THOUGHT_END -->
 
