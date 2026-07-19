@@ -4,7 +4,7 @@
 
 Mastering software engineering is a marathon; tracking your goals and progress ensures you stay on the right path.
 
-*Daily Insight:* Refactor design patterns to improve scalability and maintainability.
+*Daily Insight:* Plan your weekly milestones, track progress velocity, and address blockers.
 
 <!-- THOUGHT_END -->
 
