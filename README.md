@@ -4,7 +4,7 @@
 
 Celebrate your milestones, but maintain a beginner's mind to keep learning and evolving.
 
-*Daily Insight:* Plan your weekly milestones, track progress velocity, and address blockers.
+*Daily Insight:* Optimize memory usage, garbage collection overhead, and resource disposal.
 
 <!-- THOUGHT_END -->
 
