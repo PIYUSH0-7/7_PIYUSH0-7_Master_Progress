@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Celebrate your milestones, but maintain a beginner's mind to keep learning and evolving.
+Regular self-assessment and adjustments to your learning plan prevent stagnation and accelerate growth.
 
-*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
+*Daily Insight:* Plan your weekly milestones, track progress velocity, and address blockers.
 
 <!-- THOUGHT_END -->
 
